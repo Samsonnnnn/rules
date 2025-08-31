@@ -24,11 +24,14 @@ dns:
     - https://cloudflare-dns.com/dns-query
     - https://dns.google/dns-query
     - https://dns.nextdns.io/
+    - https://dns.adguard.com/dns-query
+    - https://doh.opendns.com/dns-query
   prefer-h3: true
 
 proxies: []
 proxy-groups: []
 rules: []
+
 
 
 
