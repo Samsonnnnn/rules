@@ -29,14 +29,10 @@ dns:
   prefer-h3: true
 
 proxies: []
-proxy-groups:
-  - name: "🇭🇰 香港节点"
-    type: url-test
-    url: "http://www.gstatic.com/generate_204"
-    interval: 300
-    tolerance: 50
-    lazy: false
+proxy-groups: []
 rules: []
+
+
 
 
 
